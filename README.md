@@ -1,1 +1,1 @@
-# Lista_01_Segundo_Semestre
+# Primeira lista do segundo semestre de Programação em Ciência da Computação
