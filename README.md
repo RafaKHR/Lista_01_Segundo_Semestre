@@ -1,1 +1,2 @@
-# Primeira lista do segundo semestre de Programação em Ciência da Computação
+# Primeira lista - Segundo semestre - Ciência da Computação
+## Programação Estruturada
